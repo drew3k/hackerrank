@@ -1,4 +1,4 @@
-package hackerrank
+package Algorithms
 
 func simpleArraySum(ar []int32) int32 {
 	var sum int32
